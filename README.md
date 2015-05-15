@@ -8,7 +8,7 @@ The system currently support:
 * Kenya: Airtel private accounts
 * Kenya: Airtel paybill accounts (experimental)
 * Ghana: Airtel private accounts (experimental)
-* Rwanda: MNT private accounts (experimental)
+* Rwanda: MTN private accounts (experimental)
 * Tanzania: Mpesa private accounts
 * Tanzania: Tigo private accounts
 * Somalia: Golis Sahal private accounts (experimental)
